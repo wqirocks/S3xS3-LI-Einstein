@@ -10,4 +10,4 @@ $$
 \sigma \in \mathrm{Ad}(G),\quad \sigma^2=1,\quad \sigma \ne 1, \mathrm{tr} \sigma = -2.
 $$
 
-Then $g$ is invariant under a Klein four subgroup $\mathbb{Z}_2^2 \subset \mathrm{Ad}(G)$.
+Then $g$ is invariant under a Klein four subgroup $ℤ_2^2 \subset \mathrm{Ad}(G)$.
