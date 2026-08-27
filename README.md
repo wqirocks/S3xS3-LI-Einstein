@@ -11,3 +11,7 @@ $$
 $$
 
 Then $g$ is invariant under a Klein four subgroup $ℤ_2^2 \subset \mathrm{Ad}(G)$.
+
+Successfully compiled with:
+- Lean `4.32.1`
+- Mathlib commit `520045ab14e26149ee970e2e617ca04b09bde5d6`
