@@ -1,0 +1,10 @@
+# Lake dependencies and build artifacts
+/.lake/
+
+# Lean compiler artifacts created outside Lake
+*.olean
+*.ilean
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
